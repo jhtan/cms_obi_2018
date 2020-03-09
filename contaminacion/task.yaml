@@ -2,7 +2,7 @@ name: "contaminacion"
 title: "Contaminación"
 time_limit: 1
 memory_limit: 256
-n_input: 10
+n_input: 9
 public_testcases: 0, 1, 2, 3, 4
 output_only: True
 token_mode: infinite

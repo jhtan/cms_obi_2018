@@ -4,6 +4,8 @@ tasks:
   - "contaminacion"
   - "farey"
   - "codigoDaVinci"
+  - "cueva"
+  - "turismo"
 users:
   - username: "jhtan"
     password: "j3ED5J59kS"

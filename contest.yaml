@@ -2,6 +2,8 @@ name: "OBI2018"
 description: "Final Nacional 2018"
 tasks:
   - "contaminacion"
+  - "farey"
+  - "codigoDaVinci"
 users:
   - username: "jhtan"
     password: "j3ED5J59kS"

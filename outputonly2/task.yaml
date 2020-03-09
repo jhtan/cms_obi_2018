@@ -1,6 +1,0 @@
-name: "outputonly2"
-title: "Output only 2"
-n_input: 2
-public_testcases: 0
-output_only: True
-token_mode: infinite

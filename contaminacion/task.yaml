@@ -2,13 +2,7 @@ name: "contaminacion"
 title: "Contaminación"
 time_limit: 1
 memory_limit: 256
-n_input: 100
+n_input: 2
 public_testcases: 0
-infile: ""
-outfile: ""
+output_only: True
 token_mode: finite
-token_gen_initial: 2
-token_gen_number: 1
-token_gen_interval: 1800
-token_gen_max: 10
-token_min_interval: 60

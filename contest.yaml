@@ -1,23 +1,8 @@
 name: "OBI 2018"
 description: "Final Nacional 2018"
 tasks:
-  - "batch"
-  - "batch_file"
-  - "batch_comparator"
-  - "batchgrader"
-  - "communication"
-  - "communicationtwoways"
-  - "outputonly"
-  - "outputonlycomparator"
-  - "batchwithoutgen"
   - "contaminacion"
 users:
-  - username: "u1"
-    password: "p1"
-    ip: null
-  - username: "u2"
-    password: "p2"
-    ip: null
   - username: "jhtan"
     password: "j3ED5J59kS"
     ip: null

@@ -2,6 +2,7 @@ name: "OBI 2018"
 description: "Final Nacional 2018"
 tasks:
   - "contaminacion"
+  - "outputonly2"
 users:
   - username: "jhtan"
     password: "j3ED5J59kS"

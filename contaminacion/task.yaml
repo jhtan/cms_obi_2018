@@ -5,4 +5,4 @@ memory_limit: 256
 n_input: 2
 public_testcases: 0
 output_only: True
-token_mode: finite
+token_mode: infinite
